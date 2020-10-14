@@ -10,7 +10,6 @@ import Notfound from './component/pages/NotFound';
 import { Provider } from './context';
 
 import './App.css';
-import Contact from './component/contacts/Contact';
 import NotFound from './component/pages/NotFound';
 
 class App extends Component {
